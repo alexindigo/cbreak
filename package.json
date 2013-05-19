@@ -1,0 +1,24 @@
+{
+  "name": "cbreak",
+  "version": "0.0.1",
+  "description": "Cbreak (rare) mode for TTY.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexindigo/cbreak.git"
+  },
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "keywords": [
+    "tty",
+    "cbreak",
+    "rare",
+    "mode"
+  ],
+  "author": "Alex Indigo <iam@alexindigo.com>",
+  "license": "MIT"
+}
